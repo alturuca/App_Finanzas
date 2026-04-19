@@ -1,0 +1,22 @@
+# Entorno Virtual (¡Lo más importante!)
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Base de Datos Local
+*.db
+*.sqlite3
+
+# IDEs y Editores
+.vscode/
+.idea/
+
+# Archivos de configuración de Python/UV
+.python-version
+.env
+
+# Archivos de Sistema
+Thumbs.db
+.DS_Store
